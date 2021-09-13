@@ -1,8 +1,8 @@
  const Tesseract = require('tesseract.js');
  const fs = require('fs')
 
- let curent = 1
- let last = 89
+ let curent = 67
+ let last = 67
 
  function transform() {
    Tesseract.recognize(
